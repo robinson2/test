@@ -1,5 +1,5 @@
 {
-    "name": "r2/test",
+    "name": "robinson2/test",
     "description": "Just a test",
     "require": {
         "php": ">=7.4"
