@@ -1,6 +1,7 @@
 {
     "name": "robinson2/test",
     "description": "Just a test",
+    "license": ["GPL-2.0-or-later"],
     "require": {
         "php": ">=7.4"
     }
