@@ -1,5 +1,5 @@
 {
-    "name": "r2/test",
+    "name": "r2/vendornameregistrationr2",
     "description": "Just a test",
     "license": ["GPL-2.0-or-later"],
     "require": {
