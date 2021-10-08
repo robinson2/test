@@ -1,6 +1,6 @@
 {
     "name": "r2/vendornameregistrationr2",
-    "description": "Just a test",
+    "description": "For registration of vendor name on Packagist",
     "license": ["GPL-2.0-or-later"],
     "require": {
         "php": ">=7.4"
